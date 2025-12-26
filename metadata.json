@@ -1,0 +1,7 @@
+{
+  "name": "Conscious Cart",
+  "description": "A refined shopping companion for endocrine health and toxin-free living. Conscious Cart translates complex labels into actionable wellness data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
